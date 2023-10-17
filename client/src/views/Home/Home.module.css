@@ -1,0 +1,8 @@
+/* Home.module.css */
+.homeContainer {
+  background-image: url('../../assets/img/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+};

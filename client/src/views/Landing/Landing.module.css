@@ -1,0 +1,61 @@
+/* Estilo para el contenedor de la página de aterrizaje */
+.landingContainer {
+  background-image: url('../../assets/img/landin.jpg');
+  background-size: cover; 
+  background-position: center center;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+};
+
+/* Estilo para el contenedor de la página de aterrizaje */
+.landingContainer {
+  background-image: url('../../assets/img/landin.jpg');
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.socialDiv {
+  position: fixed;
+  bottom: 0;
+  left: 10px; /* Ajusta este valor según sea necesario para mover los botones hacia la izquierda */
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 40px;
+}
+
+.githubButton,
+.instagramButton,
+.linkedinButton {
+  width: 80px; /* Ancho deseado para los botones (ajústalo según tus necesidades) */
+  margin: 10px -20px; /* Espacio vertical entre los botones (ajústalo según tus preferencias) */
+}
+
+.redesimg {
+  width: 40%;
+}
+
+
+.infomacion{
+  width:140px;
+  color: rgb(8, 8, 8);
+  top: -30000px;
+  right: -1000px;
+  left: 100px;
+  margin-left: -1200px;
+  border: none;
+  
+  margin-top: 300px;
+}
+
+
+
